@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PZ№2\PZ№2\obj\Debug\PZ№2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PZ№2\PZ№2\obj\Debug\PZ№2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PZ№2\PZ№2\bin\Debug\PZ№2.exe.config
+C:\Users\Admin\source\repos\PZ№2\PZ№2\bin\Debug\PZ№2.exe
+C:\Users\Admin\source\repos\PZ№2\PZ№2\bin\Debug\PZ№2.pdb
+C:\Users\Admin\source\repos\PZ№2\PZ№2\obj\Debug\PZ№2.exe
+C:\Users\Admin\source\repos\PZ№2\PZ№2\obj\Debug\PZ№2.pdb
