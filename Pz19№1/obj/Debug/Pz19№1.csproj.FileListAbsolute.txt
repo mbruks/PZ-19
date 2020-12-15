@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\bin\Debug\Pz19№1.exe.config
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\bin\Debug\Pz19№1.exe
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\bin\Debug\Pz19№1.pdb
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\obj\Debug\Pz19№1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\obj\Debug\Pz19№1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\obj\Debug\Pz19№1.exe
+C:\Users\Admin\source\repos\Pz19№1\Pz19№1\obj\Debug\Pz19№1.pdb
